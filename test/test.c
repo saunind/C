@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
-
+// test comment
+#define M 5
 #define N 6
 
 void sortlen(char **);
